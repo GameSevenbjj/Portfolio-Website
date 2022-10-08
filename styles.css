@@ -201,8 +201,7 @@ color: black;
 
 @media (max-width: 400px) {
     .social {
-        font-size: smaller;
-        overflow: visible;
+        visibility: hidden;
         
     }
 }
