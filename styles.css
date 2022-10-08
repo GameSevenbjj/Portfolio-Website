@@ -204,7 +204,7 @@ color: black;
         font-size: smaller;
         overflow: visible;
         display: inline-flex;
-        margin-left: 6%;
+        padding-left: 6%;
     }
 }
 
