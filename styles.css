@@ -199,6 +199,13 @@ color: black;
     color: #00BFFF;
 }
 
+@media (max-width: 400px) {
+    .social {
+        visibility: hidden;
+    }
+}
+
+
 @media (max-width: 800px) {
     .navbar {
        flex-direction:row;
